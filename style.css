@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+h1{
+    color: aqua;
+    font-family: 'Bungee Inline', cursive;
+    margin: 0.5em;
+}
+h2{
+    color: fuchsia;
+    font-family: 'Bungee Inline', cursive;
+}
+h3{
+    color: fuchsia;
+    font-family: 'Bungee Inline', cursive;
+}
+p{
+    color: chartreuse;
+    font-family: 'Bungee Inline', cursive;
+}
+}
+div{
+    margin: 0.5em auto;
+}
